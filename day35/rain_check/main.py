@@ -1,6 +1,6 @@
 import requests
 
-weather_endpoint = "https://api.openweathermap.org/data/2.5/weather"
+weather_endpoint = "https://api.openweathermap.org/data/2.5/weather?"
 
 weather_params = {
     "lat": 59.917180,
